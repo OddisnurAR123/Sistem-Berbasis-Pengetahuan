@@ -9,7 +9,7 @@ public class QuizNo7 {
         System.out.println("Kelas   : SIB 2C");
         System.out.println("==============================================");
         
-        // Atribut
+        // Tipe Data
         boolean 
         A = true, B = false, C = false, D = false,
         E = true, F = false, G = false, H = false,
